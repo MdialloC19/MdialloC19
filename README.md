@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm MdialloC19 👋
 
-<!--
-**MdialloC19/MdialloC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Below you'll find a little bit about me and my work.
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+- Email: your-email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@yourusername](https://twitter.com/yourusername)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact
+- Share something fun or interesting about yourself!
+
+## 🛠️ My favorite tools
+- **Programming Languages:** Language 1, Language 2, Language 3
+- **Frameworks:** Framework 1, Framework 2, Framework 3
+- **Tools:** Tool 1, Tool 2, Tool 3
+
+## 📈 GitHub Stats
+![MdialloC19's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdialloC19&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![MdialloC19's GitHub trophies](https://github-profile-trophy.vercel.app/?username=MdialloC19&theme=radical)
