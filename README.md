@@ -6,8 +6,10 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - Email: ?????
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/moussa-diallo2022/)
 - Twitter: [X](https://x.com/mosikasika_c19)
-## ⚡ Fun fact
-- Share something fun or interesting about yourself!
+## 🚀 Fun Facts  
+
+- **I’m always exploring the intersection of technology and innovation.**  
+- When I’m not coding, you’ll find me learning new languages, exploring new places, or brainstorming my next big project!  
 
 ## 🛠️ My Favorite Tools  
 
@@ -44,6 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
     </td>
   </tr>
 </table>
+
 ## 📊 My Language Trends & 📈 GitHub Stats  
 <table>
   <tr>
