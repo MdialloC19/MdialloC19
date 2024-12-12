@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Below you'll find a little bit about me and my work.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Gif">
+</div>
+
 ## 📫 How to reach me
 - Email: ?????
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/moussa-diallo2022/)
@@ -9,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 ## 🚀 Fun Facts  
 
 - **I’m always exploring the intersection of technology and innovation.**  
-- When I’m not coding, you’ll find me learning new languages, exploring new places, or brainstorming my next big project!  
+- When I’m not coding, you’ll find me learning new languages, exploring new places, or brainstorming my next big project!
 
 ## 🛠️ My Favorite Tools  
 
