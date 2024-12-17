@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
         <li><strong>JavaScript/TypeScript</strong> (React, NestJS, Express)</li>
         <li><strong>Java</strong> (Spring Framework)</li>
         <li><strong>Python</strong></li>
-        <li><strong>C</strong></li>
+        <li><strong>C/C++</strong></li>
         <li><strong>MATLAB</strong></li>
       </ul>
     </td>
