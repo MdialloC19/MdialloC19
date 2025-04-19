@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Below you'll find a little bit about me and my work.
 
+---
+Bienvenue sur mon profil GitHub !  
+Développeur passionné, toujours à la recherche de nouveaux défis et d'innovations à explorer.  
+J’aime transformer des idées en solutions concrètes, apprendre sans cesse, et partager mes découvertes.
+
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Gif">
 </div>
@@ -116,3 +121,19 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## 🏆 GitHub Trophies
 ![MdialloC19's GitHub trophies](https://github-profile-trophy.vercel.app/?username=MdialloC19&theme=radical)
+
+
+
+
+## 🤝 Ce que je peux faire pour toi
+
+- Développer des APIs robustes (FastAPI, Node.js, Java)
+- Intégrer des services externes (SMS, paiements, OAuth2, etc.)
+- Concevoir des architectures backend modernes (MongoDB Atlas, PostgreSQL, CI/CD)
+- Mettre en place des pipelines de déploiement automatisés (Render, GitHub Actions)
+- T’aider à lancer ton projet ou à scaler ton application !
+
+---
+
+✨ **Toujours partant pour de nouveaux projets, collaborations ou discussions tech !  
+N’hésite pas à me contacter, on va coder des trucs cool ensemble !** ✨
