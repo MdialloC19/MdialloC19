@@ -2,10 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Below you'll find a little bit about me and my work.
 
----
-Bienvenue sur mon profil GitHub !  
-Développeur passionné, toujours à la recherche de nouveaux défis et d'innovations à explorer.  
-J’aime transformer des idées en solutions concrètes, apprendre sans cesse, et partager mes découvertes.
+I'm a passionate developer always looking for new challenges and innovations to explore. I love transforming ideas into concrete solutions, continuously learning, and sharing my discoveries.
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Gif">
@@ -15,11 +12,31 @@ J’aime transformer des idées en solutions concrètes, apprendre sans cesse, e
 - Email: ?????
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/moussa-diallo2022/)
 - Twitter: [X](https://x.com/mosikasika_c19)
+
+---
+
+## 🌟 Social
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/MdialloC19?label=Followers&style=social)](https://github.com/MdialloC19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/moussa-diallo2022/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40mosikasika__c19-1DA1F2?style=flat&logo=twitter)](https://x.com/mosikasika_c19)
+[![Profile Views](https://komarev.com/ghpvc/?username=MdialloC19&style=flat-square&color=blue)](https://github.com/MdialloC19)
+
+[![GitHub Contributions](https://img.shields.io/github/commit-activity/m/MdialloC19?label=Commits&style=flat)](https://github.com/MdialloC19)
+[![Public Repos](https://img.shields.io/github/repos/MdialloC19?label=Repositories&style=flat)](https://github.com/MdialloC19?tab=repositories)
+[![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-brightgreen?style=flat)](https://github.com/MdialloC19)
+
+</div>
+
+---
+
 ## 🚀 Fun Facts  
 
 - **I’m always exploring the intersection of technology and innovation.**  
-- When I’m not coding, you’ll find me learning new languages, exploring new places, or brainstorming my next big project!
-
+- **Passionate about AI/ML applications** and building intelligent systems.
+- When I'm not coding, you'll find me learning new languages, exploring new places, or brainstorming my next big project!
 ## 🛠️ My Favorite Tools  
 
 <table>
@@ -28,9 +45,10 @@ J’aime transformer des idées en solutions concrètes, apprendre sans cesse, e
       <h3>💻 Programming Languages</h3>
       <ul>
         <li><strong>JavaScript/TypeScript</strong> (React, NestJS, Express)</li>
+        <li><strong>Rust</strong> (Systems programming, WebAssembly)</li>
         <li><strong>Java</strong> (Spring Framework)</li>
-        <li><strong>Python</strong></li>
-        <li><strong>C/C++</strong></li>
+        <li><strong>Python</strong> (AI/ML, Data Science)</li>
+        <li><strong>C/C++</strong> (Embedded, Performance-critical)</li>
         <li><strong>MATLAB</strong></li>
       </ul>
     </td>
@@ -41,16 +59,19 @@ J’aime transformer des idées en solutions concrètes, apprendre sans cesse, e
         <li><strong>NestJS</strong></li>
         <li><strong>Express.js</strong></li>
         <li><strong>Spring Boot</strong></li>
+        <li><strong>PyTorch / TensorFlow</strong></li>
+        <li><strong>scikit-learn</strong></li>
       </ul>
     </td>
     <td>
-      <h3>🔧 Tools</h3>
+      <h3>🔧 Tools & Platforms</h3>
       <ul>
         <li><strong>Git/GitHub</strong></li>
         <li><strong>Postman</strong></li>
         <li><strong>Docker</strong></li>
         <li><strong>Visual Studio Code</strong></li>
         <li><strong>JIRA</strong></li>
+        <li><strong>Jupyter Notebooks</strong></li>
       </ul>
     </td>
   </tr>
@@ -102,9 +123,37 @@ J’aime transformer des idées en solutions concrètes, apprendre sans cesse, e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+
 </div>
 
 
+## 🤖 AI & Machine Learning Expertise
+
+I'm passionate about artificial intelligence and machine learning. Here's what I work with:
+
+### 🧠 AI/ML Skills
+- **Machine Learning**: Supervised & Unsupervised Learning, Classification, Regression, Clustering
+- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers, LSTMs
+- **Computer Vision**: Image Recognition, Object Detection, Image Segmentation
+
+
+### 🛠️ AI/ML Tools & Frameworks
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+</div>
+
+**Libraries**: scikit-learn, Keras, OpenCV, Hugging Face Transformers, spaCy, NLTK
 ## 📊 My Language Trends & 📈 GitHub Stats  
 <table>
   <tr>
@@ -123,17 +172,30 @@ J’aime transformer des idées en solutions concrètes, apprendre sans cesse, e
 ![MdialloC19's GitHub trophies](https://github-profile-trophy.vercel.app/?username=MdialloC19&theme=radical)
 
 
-
-
-## 🤝 Ce que je peux faire pour toi
-
-- Développer des APIs robustes (FastAPI, Node.js, Java)
-- Intégrer des services externes (SMS, paiements, OAuth2, etc.)
-- Concevoir des architectures backend modernes (MongoDB Atlas, PostgreSQL, CI/CD)
-- Mettre en place des pipelines de déploiement automatisés (Render, GitHub Actions)
-- T’aider à lancer ton projet ou à scaler ton application !
+## 🚀 My Recent Focus Areas
+- **Embedded Systems** 🔌 - Satellite System,  microcontroller programming, real-time systems
+- **Full-Stack Development** 🏗️ - From backend APIs to frontend interfaces
+- **Rust Programming** 🦀 - Systems programming, WebAssembly, performance optimization
+- **AI/ML Applications** 🤖 - Building intelligent solutions with modern frameworks
+- **DevOps & Cloud** ☁️ - Containerization, CI/CD pipelines, cloud deployment
 
 ---
 
-✨ **Toujours partant pour de nouveaux projets, collaborations ou discussions tech !  
-N’hésite pas à me contacter, on va coder des trucs cool ensemble !** ✨
+
+
+
+## 🤝 What I Can Do For You
+
+- **Backend Development**: Build robust APIs (FastAPI, Node.js, Java, Rust)
+- **AI/ML Solutions**: Create ML models, analyze data, deploy AI pipelines
+- **Integration Services**: Integrate external services (SMS, payments, OAuth2, APIs, webhooks)
+- **System Architecture**: Design modern backend architectures (MongoDB Atlas, PostgreSQL, Redis)
+- **DevOps & Automation**: Set up automated deployment pipelines (Render, GitHub Actions, Docker)
+- **Embedded Systems**: Develop in C/C++/Rust for embedded systems (Arduino, ARM Cortex-M)
+- **Data Solutions**: Process and analyze large datasets with Python and ML tools
+- **Help you launch your project or scale your application!**
+
+---
+
+✨ **Always ready for new projects, collaborations, or tech discussions!  
+Feel free to reach out, let's build cool things together!** ✨
