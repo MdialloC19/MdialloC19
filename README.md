@@ -9,7 +9,7 @@ I'm a passionate developer always looking for new challenges and innovations to 
 </div>
 
 ## 📫 How to reach me
-- Email: ?????
+- Email: moussa.diallo.dev@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/moussa-diallo2022/)
 - Twitter: [X](https://x.com/mosikasika_c19)
 
@@ -24,8 +24,9 @@ I'm a passionate developer always looking for new challenges and innovations to 
 [![Twitter](https://img.shields.io/badge/Twitter-%40mosikasika__c19-1DA1F2?style=flat&logo=twitter)](https://x.com/mosikasika_c19)
 [![Profile Views](https://komarev.com/ghpvc/?username=MdialloC19&style=flat-square&color=blue)](https://github.com/MdialloC19)
 
-[![GitHub Contributions](https://img.shields.io/github/commit-activity/m/MdialloC19?label=Commits&style=flat)](https://github.com/MdialloC19)
-[![Public Repos](https://img.shields.io/github/repos/MdialloC19?label=Repositories&style=flat)](https://github.com/MdialloC19?tab=repositories)
+[![GitHub Contributions](https://img.shields.io/github/commit-activity/y/MdialloC19?label=Annual%20Commits&style=flat&color=green)](https://github.com/MdialloC19)
+[![Public Repos](https://img.shields.io/github/repos/MdialloC19?label=Repositories&style=flat&color=blue)](https://github.com/MdialloC19?tab=repositories)
+[![Total Stars](https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/MdialloC19&color=yellow&style=flat)](https://github.com/MdialloC19?tab=repositories&sort=stars)
 [![Code Quality](https://img.shields.io/badge/Code%20Quality-A+-brightgreen?style=flat)](https://github.com/MdialloC19)
 
 </div>
@@ -155,18 +156,36 @@ I'm passionate about artificial intelligence and machine learning. Here's what I
 
 **Libraries**: scikit-learn, Keras, OpenCV, Hugging Face Transformers, spaCy, NLTK
 ## 📊 My Language Trends & 📈 GitHub Stats  
+
+### 🔥 Contribution Activity & Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdialloC19&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+</div>
+
+### 📈 Detailed Statistics
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <b>Language Trends</b><br>
       <img src="https://api.githubtrends.io/user/svg/MdialloC19/langs?time_range=one_year&use_percent=True&theme=bright_lights" alt="Language Trends">
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <b>GitHub Stats</b><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=MdialloC19&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=MdialloC19&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats">
     </td>
   </tr>
 </table>
+
+### ⭐ Repository Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdialloC19&layout=compact&theme=radical&hide_border=false" alt="Top Languages">
+</div>
+
+<div align="center">
+  
+  [![Total Stars Earned](https://img.shields.io/badge/⭐%20Total%20Stars-Earned%20on%20GitHub-yellow?style=for-the-badge)](https://github.com/MdialloC19?tab=repositories&sort=stars)
+  
+</div>
 
 ## 🏆 GitHub Trophies
 ![MdialloC19's GitHub trophies](https://github-profile-trophy.vercel.app/?username=MdialloC19&theme=radical)
