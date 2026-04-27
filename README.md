@@ -196,69 +196,107 @@ I'm passionate about artificial intelligence and machine learning. Here's what I
 </div>
 
 ## 🌐 Tech Stack Showcase - Rotating Technologies
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvDt/giphy.gif" alt="Rotating Globe" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF41&background=1F2937&center=true&vCenter=true&width=500&lines=🚀+CORE+TECHNOLOGIES+ROTATING;Java+•+C+•+React+spinning+around">
+    <img alt="Typing Animation" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00FF41&center=true&vCenter=true&width=500&lines=🚀+CORE+TECHNOLOGIES+ROTATING;Java+•+C+•+React+spinning+around">
+  </picture>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <h3>🚀 Core Tech Stack Orbiting Around Innovation</h3>
-  
+### 🎯 Primary Tech Stack (Core Focus)
+<div align="center">
   <table>
     <tr align="center">
-      <td width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-        <br><b>JavaScript</b>
+      <td width="33%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java"/>
+        <br><b style="font-size: 16px;">☕ Java</b>
+        <br><sub>Spring Boot, Backend</sub>
       </td>
-      <td width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
-        <br><b>TypeScript</b>
+      <td width="33%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C"/>
+        <br><b style="font-size: 16px;">🔧 C/C++</b>
+        <br><sub>Embedded, Systems</sub>
       </td>
-      <td width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
-        <br><b>React</b>
+      <td width="33%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
+        <br><b style="font-size: 16px;">⚛️ React</b>
+        <br><sub>Frontend, UI</sub>
       </td>
-      <td width="20%">
+    </tr>
+  </table>
+</div>
+
+### 🤖 AI & Machine Learning Stack
+<div align="center">
+  <table>
+    <tr align="center">
+      <td width="25%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
         <br><b>Python</b>
       </td>
-      <td width="20%">
+      <td width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch"/>
+        <br><b>PyTorch</b>
+      </td>
+      <td width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow"/>
+        <br><b>TensorFlow</b>
+      </td>
+      <td width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
+        <br><b>Pandas</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🔌 Embedded & IoT Systems
+<div align="center">
+  <table>
+    <tr align="center">
+      <td width="33%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
+        <br><b>Linux/RTOS</b>
+      </td>
+      <td width="33%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="Rust"/>
         <br><b>Rust</b>
       </td>
+      <td width="33%">
+        <img src="https://media.giphy.com/media/Q8bEDaxtgtw9i/giphy.gif" height="50" alt="Arduino"/>
+        <br><b>Microcontrollers</b>
+      </td>
     </tr>
+  </table>
+</div>
+
+### 🛠️ Full Stack & DevOps
+<div align="center">
+  <table>
     <tr align="center">
       <td width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+        <br><b>JavaScript</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
         <br><b>Node.js</b>
       </td>
       <td width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="NestJS"/>
-        <br><b>NestJS</b>
-      </td>
-      <td width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
         <br><b>Docker</b>
       </td>
       <td width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
         <br><b>MongoDB</b>
       </td>
       <td width="20%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
         <br><b>PostgreSQL</b>
       </td>
     </tr>
   </table>
-  
-  <style>
-    @keyframes orbit {
-      0% { transform: rotate(0deg) translateX(100px) rotate(0deg); }
-      100% { transform: rotate(360deg) translateX(100px) rotate(-360deg); }
-    }
-    .tech-item {
-      animation: orbit 20s linear infinite;
-    }
-  </style>
 </div>
 
 ## 🐍 GitHub Contribution Snake
