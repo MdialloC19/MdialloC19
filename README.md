@@ -166,12 +166,12 @@ I'm passionate about artificial intelligence and machine learning. Here's what I
 <table>
   <tr>
     <td align="center" width="50%">
-      <b>Language Trends</b><br>
+      <b>📊 Language Trends (Last Year)</b><br>
       <img src="https://api.githubtrends.io/user/svg/MdialloC19/langs?time_range=one_year&use_percent=True&theme=bright_lights" alt="Language Trends">
     </td>
     <td align="center" width="50%">
-      <b>GitHub Stats</b><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=MdialloC19&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats">
+      <b>📈 GitHub Stats</b><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=MdialloC19&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats">
     </td>
   </tr>
 </table>
@@ -187,8 +187,79 @@ I'm passionate about artificial intelligence and machine learning. Here's what I
   
 </div>
 
-## 🏆 GitHub Trophies
-![MdialloC19's GitHub trophies](https://github-profile-trophy.vercel.app/?username=MdialloC19&theme=radical)
+## 🏆 GitHub Trophies & Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdialloC19&theme=radical&no-frame=false&no-bg=false&margin-w=5&row=1&column=7" alt="GitHub Trophies">
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdialloC19&theme=radical&no-frame=false&no-bg=false&margin-w=5&row=2&column=3" alt="More Trophies">
+</div>
+
+## 🌐 Tech Stack Showcase - Rotating Technologies
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWoLvDt/giphy.gif" alt="Rotating Globe" width="200">
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <h3>🚀 Core Tech Stack Orbiting Around Innovation</h3>
+  
+  <table>
+    <tr align="center">
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+        <br><b>JavaScript</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+        <br><b>TypeScript</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
+        <br><b>React</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+        <br><b>Python</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="Rust"/>
+        <br><b>Rust</b>
+      </td>
+    </tr>
+    <tr align="center">
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+        <br><b>Node.js</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="NestJS"/>
+        <br><b>NestJS</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+        <br><b>Docker</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
+        <br><b>MongoDB</b>
+      </td>
+      <td width="20%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
+        <br><b>PostgreSQL</b>
+      </td>
+    </tr>
+  </table>
+  
+  <style>
+    @keyframes orbit {
+      0% { transform: rotate(0deg) translateX(100px) rotate(0deg); }
+      100% { transform: rotate(360deg) translateX(100px) rotate(-360deg); }
+    }
+    .tech-item {
+      animation: orbit 20s linear infinite;
+    }
+  </style>
+</div>
 
 ## 🐍 GitHub Contribution Snake
 <picture>
